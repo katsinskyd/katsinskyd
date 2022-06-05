@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello, I'm Kat! :star2:  
+  
+I am a full stack developer from St. Louis currently living in Virginia.  
+My pronouns are she/they.
 
-<!--
-**katsinskyd/katsinskyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm comfortable with:  
+HTML, CSS, Javascript, Typescript, Java, Angular  
+  
+I have some knowledge of:  
+React, SQL, C++, Swift  
 
-Here are some ideas to get you started:
+I would like to learn:  
+Anything that could help me in the future! But in particular, Python, Ruby, and the appropriate frameworks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a developer, I am
+- Currently working on [Tara](https://github.com/April-2022-LC-LiftOff/team-ave), an anxiety tracker app
+- Interested in web development and game design
+- Actively searching for **remote** work opportunities! 
+
+You can reach me at kathryn.garnier@gmail.com
+
+---
+
+Outside of programming, I am an artist, livestreamer, and I'm currently studying Japanese.
