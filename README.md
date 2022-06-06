@@ -14,6 +14,7 @@ Anything that could help me in the future! But in particular, Python, Ruby, and 
 
 As a developer, I am
 - Currently working on [Tara](https://github.com/April-2022-LC-LiftOff/team-ave), an anxiety tracker app
+- Also working on a [personal website](katsinskyd.github.io/portfolio)
 - Interested in web development and game design
 - Actively searching for **remote** work opportunities! 
 
