@@ -7,7 +7,7 @@ I'm comfortable with:
 HTML, CSS, Javascript, Typescript, Java, Angular  
   
 I have some knowledge of:  
-React, SQL, C++, Swift  
+React, Next.js, SQL, C++, Swift  
 
 I would like to learn:  
 Anything that could help me in the future! But in particular, Python, Ruby, and the appropriate frameworks  
