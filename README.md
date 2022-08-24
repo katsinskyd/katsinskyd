@@ -13,7 +13,7 @@ I would like to learn:
 Anything that could help me in the future! But in particular, Python, Ruby, and the appropriate frameworks  
 
 As a developer, I am
-- Currently working on [Tara](https://github.com/April-2022-LC-LiftOff/team-ave), an anxiety tracker app
+- Currently working on a memory card game
 - Also working on a [personal website](https://katsinskyd.github.io/portfolio)
 - Interested in web development and game design
 - Actively searching for **remote** work opportunities! 
