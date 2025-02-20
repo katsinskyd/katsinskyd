@@ -1,3 +1,2 @@
-### I'm Katthew! :star2:  
-  
-Hobbyist. I code for fun and games.
+Hi, I'm Kat!
+I'm a full stack engineer in the process of switching careers.
